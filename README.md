@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EI²Det
 
 <!-- **Ke Hu, Yudong He, Yuan Li, Jiayu Zhao, Song Chen, Yi Kang**   -->
@@ -136,3 +137,6 @@ This implementation is based on the following repositories, and we thank the ori
 - [TINet](https://github.com/NNNNerd/Triple-I-Net-TINet)
 
 We would also like to thank Jinyuan Liu, Qi Xu, Tianjian Chen, Chen Chen, and Boen Wang for their helpful discussions.
+=======
+# EI2Det
+>>>>>>> 68d4ce96b4b768ed7815b7e3bdce8e727c114866
