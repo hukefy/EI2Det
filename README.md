@@ -9,10 +9,6 @@
 
 
 ---
-
-
-
----
 <h2><p align="center">MFAD Dataset</p></h2>
 
 ### Preview
