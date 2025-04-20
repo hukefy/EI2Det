@@ -1,0 +1,12 @@
+path: /home/XXX/RGBT/dataset/MFAD/ICA-dataset
+train_rgb: /home/XXX/RGBT/dataset/MFAD/ICA-dataset/visible/train
+val_rgb: /home/XXX/RGBT/dataset/MFAD/ICA-dataset/visible/test
+train_ir: /home/XXX/RGBT/dataset/MFAD/ICA-dataset/infrared/train
+val_ir: /home/XXX/RGBT/dataset/MFAD/ICA-dataset/infrared/test
+
+# number of classes/home/XXX/RGBT/dataset/align/rgb/align_train.txt
+nc: 6
+
+# class names
+names: ['Car','Bus','Truck','Pedestrian','Ebikerider','Cyclist']
+

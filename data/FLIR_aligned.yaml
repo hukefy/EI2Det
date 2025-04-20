@@ -1,0 +1,11 @@
+path: /home/XXX/RGBT/dataset/align-i
+train_rgb: /home/XXX/RGBT/dataset/align-i/visible/train 
+val_rgb: /home/XXX/RGBT/dataset/align-i/visible/test  
+train_ir: /home/XXX/RGBT/dataset/align-i/infrared/train 
+val_ir: /home/XXX/RGBT/dataset/align-i/infrared/test 
+
+# number of classes
+nc: 3
+
+# class names
+names: [ 'Person','Car','Bicycle']
